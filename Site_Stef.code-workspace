@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../Downloads/exam-int"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Site_Stef"
+  }
+}
